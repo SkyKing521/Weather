@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="sunrise">Рассвет</string>
+    <string name="sunset">Закат</string>
+    <string name="wind">Ветер</string>
+    <string name="pressure">Давление</string>
+    <string name="humidity">Влажность</string>
+    <string name="feels_like">Ощущается</string>
+    <string name="errortext">Что-то пошло не так</string>
+    <string name="changecity">Введите местоположение</string>
+    <string name="cities">Смена города</string>
+    <string name="Russiancities">Крупнейшие города России</string>
+    <string name="Moscow">Москва</string>
+    <string name="SaintPetersburg">Санкт-Петербург</string>
+    <string name="Novosibirsk">Новосибирск</string>
+    <string name="Ekaterinburg">Екатеринбург</string>
+    <string name="Kazan">Казань</string>
+    <string name="NizhniyNovgorod">Нижний Новгород</string>
+    <string name="Chelyabinsk">Челябинск</string>
+    <string name="Omsk">Омск</string>
+    <string name="Samara">Самара</string>
+    <string name="RostovNaDonu">Ростов на Дону</string>
+    <string name="Ufa">Уфа</string>
+    <string name="Krasnoyarsk">Красноярск</string>
+    <string name="Perm">Пермь</string>
+    <string name="Voronezh">Воронеж</string>
+    <string name="Volgograd">Волгоград</string>
+    <string name="back">Вернуться на главную</string>
+    <string name="weeklyforecast">Недельный прогноз</string>
+</resources>
